@@ -4,9 +4,12 @@
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-alves-026397131/)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcalves&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcalves&theme=dark&show_icons=true&icon_color=fff)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=igorcalves&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 
@@ -47,7 +50,7 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
     <br/>       
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcalves&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcalves&layout=compact&bg_color=00FF0000&title_color=fff&text_color=fff)
 
 #Projetos
 
