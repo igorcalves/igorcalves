@@ -52,7 +52,7 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcalves&layout=compact&bg_color=00FF0000&title_color=fff&text_color=fff)
 
-#Projetos
+# Projetos
 
 ##Apis
 - [Api para aplicativo movel - java, Spring, h2,Swagger](https://github.com/igorcalves/condominus-Backend)
@@ -61,12 +61,12 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 - [Api para aplicativo movel](https://github.com/igorcalves/condominus-Backend)
 
 
-##Aplicativos Movéis
+## Aplicativos Movéis
 - [Aplicativo para controle de moradores - dart, flutter](https://github.com/igorcalves/Condominus)
 
-##Projetos Acadêmicos
+## Projetos Acadêmicos
 
-###Jogos
+### Jogos
 
 - [Campo Minado - Java,Swing](https://github.com/igorcalves/Contra-Evolucao-Game-Godot-Faculdade.git)
 
@@ -75,6 +75,6 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 - [Jogo da Memoria - Visual Studio, C# ](https://github.com/igorcalves/Contra-Evolucao-Game-Godot-Faculdade.git)
 
 
-##Sites
+## Sites
 - Comming son
 
