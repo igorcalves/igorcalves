@@ -5,7 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcalves&theme=dark&show_icons=true&icon_color=fff)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorcalves&theme=dark" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=igorcalves&theme=dark)](https://git.io/streak-stats)
+
 
 
 
