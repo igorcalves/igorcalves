@@ -1,5 +1,3 @@
-
-
 ### Olá eu sou o Igor Alves 🔥
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-alves-026397131/)
@@ -7,8 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorcalves&theme=dark&show_icons=true&icon_color=fff)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=igorcalves&theme=dark)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorcalves&theme=dark" alt="GitHub Streak" /></a>
 
 
 
