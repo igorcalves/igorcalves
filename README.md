@@ -53,7 +53,7 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 
 # Projetos
 
-##Apis
+## Apis
 - [Api para aplicativo movel - java, Spring, h2,Swagger](https://github.com/igorcalves/condominus-Backend)
 - [Api de autenticação de login e senha - java, Spring, h2, junit4, mockito](https://github.com/igorcalves/AuthenticationCrud)
 - [Api para Registrar ponto eletrico de funcionários - Java, Spring, Postgres,Junit4, ](https://github.com/igorcalves/RegisterPoint/tree/c9d29e9616f8c1ba74df7c3ba78b1b46dd58134d)
@@ -77,5 +77,5 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 
 
 ## Sites
-- [Weather Api ](https://github.com/igorcalves/Weather)
+- [Weather Api ](https://igorcalves.github.io/Weather/)
 
