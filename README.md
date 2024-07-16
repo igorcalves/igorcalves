@@ -54,6 +54,7 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
         <! -- React Native -->
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <br/>       
+    <br/>       
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcalves&layout=compact&bg_color=00FF0000&title_color=fff&text_color=fff)
