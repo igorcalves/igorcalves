@@ -46,6 +46,13 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         <! -- CSS -->
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <! -- Docker -->
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        <! -- Swagger -->
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+    <br/>       
+        <! -- React Native -->
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <br/>       
 </div>
 
