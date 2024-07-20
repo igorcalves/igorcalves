@@ -70,6 +70,7 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 
 ## Aplicativos Movéis
 - [Aplicativo para controle de moradores - dart, flutter](https://github.com/igorcalves/Condominus)
+- [Aplicativo para controle de dispesas e tarefas domesticas - js, React Native](https://github.com/igorcalves/CandyCat) (Em Desenvolvimento)
 
 ## Projetos Acadêmicos
 
