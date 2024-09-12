@@ -15,7 +15,7 @@
 ## Tecnologias
 <div style="display: inline-block; margin-right: 30px; margin-bottom: 30px;">
  <h3 style ="margin:30px 0">Olá sou o Igor,
-Sou um estudante de Ciência da Computação no 6º período, e estou determinado a me tornar um desenvolvedor fullstack.</h3>
+Sou um estudante de Ciência da Computação no 7º período, Desenvolvedor fullstack.</h3>
         <! -- JAVA -->
     <img  align="center" alt="HTML5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         <! -- Python -->
@@ -64,7 +64,7 @@ Sou um estudante de Ciência da Computação no 6º período, e estou determinad
 ## Apis
 - [Api para aplicativo movel - java, Spring, h2,Swagger](https://github.com/igorcalves/condominus-Backend)
 - [Api de autenticação de login e senha - java, Spring, h2, junit4, mockito](https://github.com/igorcalves/AuthenticationCrud)
-- [Api para Registrar ponto eletrico de funcionários - Java, Spring, Postgres,Junit4, ](https://github.com/igorcalves/RegisterPoint/tree/c9d29e9616f8c1ba74df7c3ba78b1b46dd58134d)
+- [Api para Registrar ponto eletronico de funcionários - Java, Spring, Postgres,Junit4, ](https://github.com/igorcalves/RegisterPoint/tree/c9d29e9616f8c1ba74df7c3ba78b1b46dd58134d)
 - [Api para aplicativo movel](https://github.com/igorcalves/condominus-Backend)
 
 
