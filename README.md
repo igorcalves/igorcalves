@@ -84,6 +84,8 @@ Sou um estudante de Ciência da Computação no 7º período, Desenvolvedor full
 
 - [Flappy Bird - HTML,CSS,JS](https://github.com/igorcalves/FlappBird)
 
+-[Tic Tac Toe with Bot- C](https://github.com/igorcalves/tic-tac-toe) 
+
 
 ## Sites
 - [Weather Api ](https://igorcalves.github.io/Weather/)
