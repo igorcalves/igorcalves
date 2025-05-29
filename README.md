@@ -91,3 +91,6 @@ Sou um estudante de Ciência da Computação no 7º período, Desenvolvedor full
 - [Weather Api ](https://igorcalves.github.io/Weather/)
 - [Group finder](https://github.com/igorcalves/Group-Finder-Uninonve)
 
+
+## IA
+- [Echo Mind](https://github.com/igorcalves/EchoMind)
