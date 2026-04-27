@@ -15,7 +15,7 @@
 ## Tecnologias
 <div style="display: inline-block; margin-right: 30px; margin-bottom: 30px;">
  <h3 style ="margin:30px 0">Olá sou o Igor,
-Sou um estudante de Ciência da Computação no 7º período, Desenvolvedor fullstack.</h3>
+Bacharel em Ciencia da computação, desenvolvedor pleno. 4 anos de experiência.</h3>
         <! -- JAVA -->
     <img  align="center" alt="HTML5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         <! -- Python -->
